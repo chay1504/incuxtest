@@ -1,0 +1,222 @@
+[
+    {
+        "id": 1,
+        "question": "What are the two main components of a GAN?",
+        "options": [
+            "Encoder and Decoder",
+            "Generator and Discriminator",
+            "Actor and Critic",
+            "Retriever and Reader"
+        ],
+        "answer": "Generator and Discriminator"
+    },
+    {
+        "id": 2,
+        "question": "What is the goal of the Generator?",
+        "options": [
+            "Detect fake data",
+            "Generate realistic fake data",
+            "Classify images",
+            "Compress data"
+        ],
+        "answer": "Generate realistic fake data"
+    },
+    {
+        "id": 3,
+        "question": "In GAN training, the Discriminator tries to:",
+        "options": [
+            "Generate noise",
+            "Fool the Generator",
+            "Distinguish real from fake data",
+            "Optimize memory"
+        ],
+        "answer": "Distinguish real from fake data"
+    },
+    {
+        "id": 4,
+        "question": "Diffusion models generate data by:",
+        "options": [
+            "Removing noise step-by-step",
+            "Adding noise once",
+            "Using adversarial training",
+            "Compressing images"
+        ],
+        "answer": "Removing noise step-by-step"
+    },
+    {
+        "id": 5,
+        "question": "Stable Diffusion is mainly used for:",
+        "options": [
+            "Text classification",
+            "Image generation",
+            "Speech recognition",
+            "Translation"
+        ],
+        "answer": "Image generation"
+    },
+    {
+        "id": 6,
+        "question": "Diffusion models start from:",
+        "options": [
+            "Clean images",
+            "Labeled data",
+            "Pure noise",
+            "Random text"
+        ],
+        "answer": "Pure noise"
+    },
+    {
+        "id": 7,
+        "question": "A VAE consists of:",
+        "options": [
+            "Generator only",
+            "Encoder and Decoder",
+            "Retriever and Generator",
+            "Discriminator only"
+        ],
+        "answer": "Encoder and Decoder"
+    },
+    {
+        "id": 8,
+        "question": "VAE uses which type of latent space?",
+        "options": [
+            "Deterministic",
+            "Discrete only",
+            "Probabilistic",
+            "Binary"
+        ],
+        "answer": "Probabilistic"
+    },
+    {
+        "id": 9,
+        "question": "VAEs are mainly used for:",
+        "options": [
+            "Classification",
+            "Clustering",
+            "Data generation",
+            "Sorting"
+        ],
+        "answer": "Data generation"
+    },
+    {
+        "id": 10,
+        "question": "LLMs are primarily based on:",
+        "options": [
+            "CNN",
+            "RNN",
+            "Transformer",
+            "SVM"
+        ],
+        "answer": "Transformer"
+    },
+    {
+        "id": 11,
+        "question": "The attention mechanism helps the model to:",
+        "options": [
+            "Reduce memory",
+            "Focus on relevant words",
+            "Remove noise",
+            "Compress data"
+        ],
+        "answer": "Focus on relevant words"
+    },
+    {
+        "id": 12,
+        "question": "GPT models are examples of:",
+        "options": [
+            "Encoder-only models",
+            "Decoder-only models",
+            "GAN models",
+            "VAE models"
+        ],
+        "answer": "Decoder-only models"
+    },
+    {
+        "id": 13,
+        "question": "Prompt engineering is:",
+        "options": [
+            "Writing better training data",
+            "Designing effective input prompts",
+            "Building neural networks",
+            "Optimizing GPUs"
+        ],
+        "answer": "Designing effective input prompts"
+    },
+    {
+        "id": 14,
+        "question": "Few-shot prompting means:",
+        "options": [
+            "No examples",
+            "One example",
+            "Multiple example demonstrations",
+            "Training the model"
+        ],
+        "answer": "Multiple example demonstrations"
+    },
+    {
+        "id": 15,
+        "question": "Which type of machine learning uses labeled data to train its models?",
+        "options": [
+            "Unsupervised Learning",
+            "Supervised Learning",
+            "Reinforcement Learning",
+            "Dimensionality Reduction"
+        ],
+        "answer": "Supervised Learning"
+    },
+    {
+        "id": 16,
+        "question": "K-Means is a popular example of which type of algorithm?",
+        "options": [
+            "Supervised Learning",
+            "Reinforcement Learning",
+            "Unsupervised Learning",
+            "Semi-supervised Learning"
+        ],
+        "answer": "Unsupervised Learning"
+    },
+    {
+        "id": 17,
+        "question": "Which of the following algorithms is primarily used for classification problems rather than regression?",
+        "options": [
+            "Linear Regression",
+            "K-Means",
+            "Principal Component Analysis (PCA)",
+            "Logistic Regression"
+        ],
+        "answer": "Logistic Regression"
+    },
+    {
+        "id": 18,
+        "question": "What does 'overfitting' mean in the context of a machine learning model?",
+        "options": [
+            "The model performs poorly on both training and test data.",
+            "The model memorizes training data but fails to generalize to new data.",
+            "The model performs better on test data than on training data.",
+            "The model is too simple to capture complex patterns."
+        ],
+        "answer": "The model memorizes training data but fails to generalize to new data."
+    },
+    {
+        "id": 19,
+        "question": "In the K-Nearest Neighbors (KNN) algorithm, what does the 'K' represent?",
+        "options": [
+            "The number of nearest neighbors considered for prediction.",
+            "The number of distinct clusters to form.",
+            "The maximum number of iterations allowed.",
+            "The number of hidden layers in the network."
+        ],
+        "answer": "The number of nearest neighbors considered for prediction."
+    },
+    {
+        "id": 20,
+        "question": "What is the primary goal of a Support Vector Machine (SVM) when performing classification?",
+        "options": [
+            "Finding the mean squared error.",
+            "Maximizing the margin of the decision boundary (hyperplane).",
+            "Calculating the prior probability of classes.",
+            "Building multiple decision trees."
+        ],
+        "answer": "Maximizing the margin of the decision boundary (hyperplane)."
+    }
+]

@@ -1,0 +1,16 @@
+node_modules/
+.env
+.DS_Store
+dist/
+build/
+*.log
+client/dist/
+server/node_modules/
+client/node_modules/
+.gemini/
+.agent/
+brain/
+extract_docx.py
+Assessment QnA.docx
+questions.txt
+/tmp/
